@@ -3,3 +3,4 @@
 *.lck
 *-backups/
 _autosave*
+firmware/.pio/
