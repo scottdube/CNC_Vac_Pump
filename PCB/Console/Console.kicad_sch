@@ -4938,7 +4938,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 67.31) (xy 76.2 67.31)
+			(xy 76.2 78.74) (xy 86.36 78.74)
 		)
 		(stroke
 			(width 0)
@@ -5188,7 +5188,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 64.77) (xy 76.2 64.77)
+			(xy 76.2 76.2) (xy 86.36 76.2)
 		)
 		(stroke
 			(width 0)
@@ -5358,7 +5358,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 62.23) (xy 76.2 62.23)
+			(xy 76.2 73.66) (xy 86.36 73.66)
 		)
 		(stroke
 			(width 0)
@@ -5608,7 +5608,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 69.85) (xy 76.2 69.85)
+			(xy 76.2 81.28) (xy 86.36 81.28)
 		)
 		(stroke
 			(width 0)
@@ -5748,7 +5748,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 59.69) (xy 76.2 59.69)
+			(xy 76.2 71.12) (xy 86.36 71.12)
 		)
 		(stroke
 			(width 0)
@@ -5798,7 +5798,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 57.15) (xy 76.2 57.15)
+			(xy 76.2 68.58) (xy 86.36 68.58)
 		)
 		(stroke
 			(width 0)
@@ -6067,7 +6067,7 @@
 		(uuid "03ec6bc0-9f7c-4ae1-90b8-3bd973661d0d")
 	)
 	(label "5Vdc"
-		(at 76.2 69.85 0)
+		(at 86.36 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6157,7 +6157,7 @@
 		(uuid "3c77c061-c1fb-4ec1-bc41-48b2751a7f6e")
 	)
 	(label "GND"
-		(at 76.2 67.31 0)
+		(at 86.36 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6197,7 +6197,7 @@
 		(uuid "518dcb1e-5353-4afe-92b0-c5e1fbe04b5a")
 	)
 	(label "Alarm"
-		(at 76.2 57.15 0)
+		(at 86.36 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6257,7 +6257,7 @@
 		(uuid "88fec00c-867d-49cf-a4bb-73b853d08503")
 	)
 	(label "GND"
-		(at 76.2 62.23 0)
+		(at 86.36 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6297,7 +6297,7 @@
 		(uuid "9a69fc3f-6279-471d-9a5e-a750de31965a")
 	)
 	(label "Vac_Pump"
-		(at 76.2 59.69 0)
+		(at 86.36 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6557,7 +6557,7 @@
 		(uuid "f0c85e86-1bdb-4d66-8dee-bdf34d75dba3")
 	)
 	(label "Vac_Sensor"
-		(at 76.2 64.77 0)
+		(at 86.36 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6630,7 +6630,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm"
 			(at 64.77 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -6712,7 +6712,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 88.9 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -6767,7 +6767,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6971,7 +6971,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 74.93 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -7209,7 +7209,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_B8B-XH-A_1x08_P2.50mm_Vertical"
 			(at 215.9 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -7282,7 +7282,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6b30b2d5-ccd6-42bd-a234-944cf274aeb3")
@@ -7387,7 +7387,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ESP32_mini:ESP32_mini"
 			(at 139.7 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -7634,7 +7634,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8278cced-6cc5-412d-9ae9-a3cea8195fa4")
@@ -7720,7 +7720,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "85f0d788-8790-455f-b474-fa769ef614dd")
@@ -7826,7 +7826,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 88.9 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -7881,7 +7881,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7973,7 +7973,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a39b9528-8f9e-48d5-afe1-bcbc093918d7")
@@ -8099,7 +8099,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
 			(at 215.9 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -8187,7 +8187,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
 			(at 217.17 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -8315,7 +8315,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x06")
-		(at 60.96 64.77 180)
+		(at 71.12 76.2 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8326,7 +8326,7 @@
 		(fields_autoplaced yes)
 		(uuid "fc6f5d4c-63d1-47dd-972f-8eac4111defa")
 		(property "Reference" "J4"
-			(at 60.96 50.8 0)
+			(at 71.12 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8336,7 +8336,7 @@
 			)
 		)
 		(property "Value" "Conn_01x06"
-			(at 60.96 53.34 0)
+			(at 71.12 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8345,8 +8345,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 60.96 64.77 0)
+		(property "Footprint" "Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical"
+			(at 71.12 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8357,7 +8357,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 64.77 0)
+			(at 71.12 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8368,7 +8368,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 60.96 64.77 0)
+			(at 71.12 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
