@@ -4,3 +4,4 @@
 *-backups/
 _autosave*
 firmware/.pio/
+*.kicad_prl
